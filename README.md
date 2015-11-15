@@ -2,6 +2,11 @@
 有待完善，大概在下周会再添加一个根据三维物体模型生成三维立体画的功能。
 
 欢迎大家修改~
+
+[点此查看原文](http://shuli.xianyungu.com/three-dimensional-painting-1541)
+
+
+# 生成的样品
 ## 从随机点生成的三维立体画
 ![](Generated images/Autostereogram.png)
 
@@ -12,4 +17,3 @@
 ![](Generated images/Autostereogram.gif)
 
 
-[点此查看原文](http://shuli.xianyungu.com/three-dimensional-painting-1541)
