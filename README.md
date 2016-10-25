@@ -3,7 +3,7 @@
 
 欢迎大家修改~
 
-[点此查看原文](http://shuli.xianyungu.com/three-dimensional-painting-1541)
+[点此查看原文](http://shuli.xianyungu.com/three-dimensional-painting)
 
 
 # 生成的样品
