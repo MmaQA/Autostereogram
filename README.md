@@ -8,12 +8,12 @@
 
 # 生成的样品
 ## 从随机点生成的三维立体画
-![](Generated images/Autostereogram.png)
+![](Generated-images/Autostereogram.png)
 
 ## 从图片生成的三维立体画
-![](Generated images/Autostereogram_picture.png)
+![](Generated-images/Autostereogram_picture.png)
 
 ## 从随机点生成的动态三维立体画
-![](Generated images/Autostereogram.gif)
+![](Generated-images/Autostereogram.gif)
 
 
